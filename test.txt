@@ -1,2 +1,2 @@
-bash: echo.: command not found lol
+bash: echo.: command not found omg
 
